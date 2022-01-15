@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IntelliSense xmlns="http://schemas.excel-dna.net/intellisense/1.0">
+	<FunctionInfo>
+		<Function Name="GetPartDescription" Description="Retrieves the part description" >
+			<Argument Name="pn" Description="Part Number" />
+		</Function>
+	</FunctionInfo>
+</IntelliSense>
